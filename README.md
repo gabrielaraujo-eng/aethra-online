@@ -61,7 +61,6 @@ Também é possível usar qualquer servidor estático, como o Live Server do VS 
 
 - HTML, CSS e JavaScript no mesmo arquivo para facilitar a distribuição;
 - [Three.js r128](https://threejs.org/) para o mundo 3D, câmera, iluminação e pós-processamento;
-- Google Fonts — Cinzel e Nunito;
 - `localStorage` para configurações e slots de personagem;
 - `postMessage` para enviar o nível do jogador ao Arcade quando incorporado em um `iframe`.
 
