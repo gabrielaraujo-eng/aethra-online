@@ -8,12 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/">
-    <img src="./assets/aethra-preview.png" alt="Mini tela do Aethra Online mostrando a Vila de Aethra e o menu principal" width="100%" />
-  </a>
-</p>
-
 <p align="center"><strong><a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/">▶ Jogar Aethra Online</a></strong></p>
 
 **Aethra Online** é uma aventura de navegador ambientada em um reino ameaçado pelo Abismo. Crie seu herói, explore a Vila de Aethra e suas regiões, converse com personagens, cumpra missões, evolua habilidades, equipe itens e enfrente os guardiões do Cristal da Aurora.
