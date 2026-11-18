@@ -4,6 +4,12 @@
 
 <p align="center">
   <a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/">
+    <img src="./assets/aethra-cover.png" alt="Capa do Aethra Online com um herói diante da Vila de Aethra, do Cristal da Aurora e da fenda do Abismo" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/">
     <img src="./assets/aethra-preview.png" alt="Mini tela do Aethra Online mostrando a Vila de Aethra e o menu principal" width="100%" />
   </a>
 </p>
