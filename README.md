@@ -6,7 +6,7 @@
 
 ## Jogar
 
-- **[Abrir a versão publicada no GitHub Pages](https://gabrielaraujo-eng.github.io/aethra-online/)**
+- **[Ver o código no GitHub](https://github.com/gabrielaraujo-eng/aethra-online)**
 - **[Abrir no Arcade Gabriel](https://gabriel-lucio-arcade-c27ec.web.app/arcade/jogos/rpg/)**
 - **[Ver o catálogo de jogos do Arcade](https://gabriel-lucio-arcade-c27ec.web.app/jogos/?id=rpg)**
 
@@ -19,7 +19,7 @@ Esta versão foi organizada como um projeto independente a partir da versão pub
 - título, descrição, autoria e URL canônica para o novo repositório;
 - metadado de tema para melhor integração com navegadores e dispositivos móveis;
 - documentação de controles, salvamento, compatibilidade e arquitetura;
-- fluxo de publicação automática pelo GitHub Pages;
+- workflow pronto para publicação no GitHub Pages;
 - links claros entre o RPG, o Arcade Gabriel e o portfólio do autor.
 
 O jogo continua preservando as funcionalidades existentes: criação de personagem, campanha principal, Arena Infinita, Desafio dos Chefes, inventário, equipamentos, habilidades, missões, conquistas, minijogos, configurações, salvamento local e exportação/importação de personagem.
