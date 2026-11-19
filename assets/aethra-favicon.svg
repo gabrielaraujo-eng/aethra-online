@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Aethra Online">
+  <rect width="64" height="64" rx="14" fill="#0b0916"/>
+  <path d="M32 7 54 48H10L32 7Z" fill="#5a4a8a" stroke="#ffd166" stroke-width="3" stroke-linejoin="round"/>
+  <path d="m32 19 14 25H18l14-25Z" fill="#0b0916"/>
+  <path d="M32 25v14m-7-7h14" stroke="#ffd166" stroke-width="4" stroke-linecap="round"/>
+</svg>
