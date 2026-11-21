@@ -99,3 +99,19 @@ Quando o RPG é aberto pelo Arcade, o jogo envia apenas o resultado de pontuaç�
 ## Créditos
 
 Criado por **Gabriel Lúcio de Araújo**. A versão publicada no Arcade Gabriel é a referência funcional desta separação. Os créditos e links do autor também estão disponíveis dentro do jogo.
+
+
+## Histórico de versões
+
+As versões antigas preservadas no Drive foram organizadas em [`versoes-antigas/`](./versoes-antigas/), cada uma em sua própria pasta. A versão atual permanece na raiz e continua sendo a referência publicada.
+
+- `rpg1.0`
+- `rpg2.0`
+- `rpg2.1`
+- `rpg2.2`
+- `rpg2.3`
+- `rpg2.4`
+- `rpg2.5`
+- `rpg2.6`
+- `rpg2.6.1`
+- `rpg2.6.2`
