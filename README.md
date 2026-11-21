@@ -1,5 +1,7 @@
 # Aethra Online
 
+![Banner de Aethra Online](./assets/aethra-online-banner.png)
+
 > RPG 2.5D de exploração, evolução e aventura criado por [Gabriel Lúcio de Araújo](https://github.com/gabrielaraujo-eng).
 
 <p align="center">
